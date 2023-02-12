@@ -29,7 +29,7 @@ export const App = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            Testing Chakra
+            Learn Chakra
           </Link>
         </VStack>
       </Grid>
